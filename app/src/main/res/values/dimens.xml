@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="osun_space_height">15dp</dimen>
+    <dimen name="osun_line_height">1dp</dimen>
+    <dimen name="osun_wall_height">65dp</dimen>
+</resources>
