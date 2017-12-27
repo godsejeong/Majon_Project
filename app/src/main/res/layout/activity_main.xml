@@ -16,7 +16,6 @@
         android:orientation="vertical"
         tools:context="com.example.pc.majorproject.MainActivity">
         <LinearLayout
-            android:background="@drawable/shape"
             android:layout_width="match_parent"
             android:layout_height="100dp"
             android:padding="5dp"
@@ -49,8 +48,8 @@
 
             </LinearLayout>
                 <include layout="@layout/cont_wall"/>
-
             </LinearLayout>
+            <include layout="@layout/note_item"/>
         </RelativeLayout>
         </LinearLayout>
     </LinearLayout>
